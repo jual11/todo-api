@@ -1,0 +1,39 @@
+{
+    "users": [
+      {
+        "user": "Alari",
+        "id": 17
+      },
+      {
+        "user": "Janeli",
+        "id": 18
+      },
+      {
+        "user": "mina",
+        "id": 19
+      }
+    ],
+    "tasks": [
+      {
+        "task": "minu musi",
+        "doneValue": false,
+        "userId": 17,
+        "time": "Next week",
+        "id": 3
+      },
+      {
+        "task": "homme toole",
+        "doneValue": false,
+        "userId": 17,
+        "time": "Today",
+        "id": 5
+      },
+      {
+        "task": "musi\\",
+        "doneValue": false,
+        "userId": 18,
+        "time": "Today",
+        "id": 11
+      } 
+    ]
+  }
